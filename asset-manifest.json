@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kaaylabdata/static/css/main.a084d116.chunk.css",
+    "main.js": "/kaaylabdata/static/js/main.45b4a2b4.chunk.js",
+    "main.js.map": "/kaaylabdata/static/js/main.45b4a2b4.chunk.js.map",
+    "runtime-main.js": "/kaaylabdata/static/js/runtime-main.b917be68.js",
+    "runtime-main.js.map": "/kaaylabdata/static/js/runtime-main.b917be68.js.map",
+    "static/js/2.11ed8015.chunk.js": "/kaaylabdata/static/js/2.11ed8015.chunk.js",
+    "static/js/2.11ed8015.chunk.js.map": "/kaaylabdata/static/js/2.11ed8015.chunk.js.map",
+    "static/js/3.c45697b4.chunk.js": "/kaaylabdata/static/js/3.c45697b4.chunk.js",
+    "static/js/3.c45697b4.chunk.js.map": "/kaaylabdata/static/js/3.c45697b4.chunk.js.map",
+    "index.html": "/kaaylabdata/index.html",
+    "static/css/main.a084d116.chunk.css.map": "/kaaylabdata/static/css/main.a084d116.chunk.css.map",
+    "static/js/2.11ed8015.chunk.js.LICENSE.txt": "/kaaylabdata/static/js/2.11ed8015.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b917be68.js",
+    "static/js/2.11ed8015.chunk.js",
+    "static/css/main.a084d116.chunk.css",
+    "static/js/main.45b4a2b4.chunk.js"
+  ]
+}
